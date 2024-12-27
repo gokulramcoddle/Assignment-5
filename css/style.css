@@ -407,10 +407,10 @@ nav ul li a , .login-con a{
     left: -80px;
 }
 .yellow-oval-bgr{
-    width: 800px;
+    width: 900px;
     height: 580px;
     position: absolute;
-    left: -42%;
+    left: -65%;
     top: 100px;
     z-index: -1;
     border-radius: 0px 500px 500px 0px;  
@@ -893,6 +893,7 @@ nav ul li a , .login-con a{
         right: 5px;
         top: 1780px;
     }
+      
 }
 @media (max-width:1400px){
     .yellow-oval-bgr {
