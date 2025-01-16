@@ -285,9 +285,6 @@ nav ul li a:hover{
     font-weight: 400;
     line-height: 28.8px;
     text-align: center;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
-    
 }
 .yellow-bgr{
     width: 500px;
